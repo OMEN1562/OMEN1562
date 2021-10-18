@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence  
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Analytics
-- 📫 How to reach me ...
+- 📫 How to reach me omen@outlook.in
 
 <!---
 OMEN1562/OMEN1562 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
